@@ -1,0 +1,10 @@
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\bin\Debug\Task1ForFormalLanguages.exe.config
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\bin\Debug\Task1ForFormalLanguages.exe
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\bin\Debug\Task1ForFormalLanguages.pdb
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\bin\Debug\Newtonsoft.Json.dll
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\bin\Debug\Newtonsoft.Json.xml
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\obj\Debug\Task1ForFormalLanguages.csprojAssemblyReference.cache
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\obj\Debug\Task1ForFormalLanguages.csproj.CoreCompileInputs.cache
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\obj\Debug\Task1ForFormalLanguages.csproj.CopyComplete
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\obj\Debug\Task1ForFormalLanguages.exe
+D:\TheoryOfFormals\Task1ForFormalLanguages\Task1ForFormalLanguages\obj\Debug\Task1ForFormalLanguages.pdb

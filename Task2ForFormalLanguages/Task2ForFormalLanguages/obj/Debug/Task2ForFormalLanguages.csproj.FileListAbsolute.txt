@@ -1,0 +1,10 @@
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\bin\Debug\Task2ForFormalLanguages.exe.config
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\bin\Debug\Task2ForFormalLanguages.exe
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\bin\Debug\Task2ForFormalLanguages.pdb
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\bin\Debug\Newtonsoft.Json.dll
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\bin\Debug\Newtonsoft.Json.xml
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\obj\Debug\Task2ForFormalLanguages.csprojAssemblyReference.cache
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\obj\Debug\Task2ForFormalLanguages.csproj.CoreCompileInputs.cache
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\obj\Debug\Task2ForFormalLanguages.csproj.CopyComplete
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\obj\Debug\Task2ForFormalLanguages.exe
+D:\GitForFormal\Task2ForFormalLanguages\Task2ForFormalLanguages\obj\Debug\Task2ForFormalLanguages.pdb
